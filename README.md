@@ -1,4 +1,6 @@
 # Test doc
+## Installation                                                                                    
+See [Installation Guide](http://paddlepaddle.org/doc/build/) to install from pre-built package or build from the source code. (Note: The intallation packages are still in pre-release state and your experience of installation may not be smooth.).
 
 ## documentation
 - [Chinese Documentation](http://paddlepaddle.org/doc_cn/)
